@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "Comprar víveres y leche",
+    "status": "in-progress",
+    "createdAt": "2024-08-14T09:11:34.670Z",
+    "updatedAt": "2024-08-14T09:12:35.167Z"
+  },
+  {
+    "id": 2,
+    "description": "Comprar aa",
+    "status": "todo",
+    "createdAt": "2024-08-14T09:12:01.980Z",
+    "updatedAt": "2024-08-14T09:12:01.981Z"
+  }
+]
